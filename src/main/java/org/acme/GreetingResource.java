@@ -14,3 +14,4 @@ public class GreetingResource {
         return "Hello from Quarkus REST";
     }
 }
+//jdbc:postgresql://ep-fragrant-cell-b57awsnv-pooler.c-7.us-east-2.aws.neon.tech/neondb?user=neondb_owner&password=npg_7bfdyzoXkLZ6&sslmode=require&channelBinding=require
